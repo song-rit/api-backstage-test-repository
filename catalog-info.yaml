@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: api-backstage-test-repository
+  annotations:
+    github.com/project-slug: song-rit/api-backstage-test-repository
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-c
